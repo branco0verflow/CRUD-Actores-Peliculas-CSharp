@@ -1,0 +1,352 @@
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.AssemblyReference.cache
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.GenerateResource.cache
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.exe
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.pdb
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Properties.Resources.resources
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe.config
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.pdb
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ZstdSharp.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.pdb
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CopyComplete
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.VentanaPrincipal.resources
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe.config
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.pdb
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ZstdSharp.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.pdb
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.AssemblyReference.cache
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.VentanaPrincipal.resources
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Properties.Resources.resources
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.GenerateResource.cache
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CopyComplete
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.exe
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.pdb
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaPeliculas.resources
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaActores.resources
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe.config
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.pdb
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ZstdSharp.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.pdb
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.AssemblyReference.cache
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaActores.resources
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaPeliculas.resources
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.VentanaPrincipal.resources
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Properties.Resources.resources
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.GenerateResource.cache
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CopyComplete
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.exe
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.pdb
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.AssemblyReference.cache
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.exe
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.pdb
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe.config
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.pdb
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ZstdSharp.dll
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.pdb
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaActores.resources
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaPeliculas.resources
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.VentanaPrincipal.resources
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Properties.Resources.resources
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.GenerateResource.cache
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\Alexis Aquino\Downloads\Nueva carpeta (2)\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CopyComplete
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe.config
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.pdb
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ZstdSharp.dll
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.pdb
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.AssemblyReference.cache
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaActores.resources
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaPeliculas.resources
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.VentanaPrincipal.resources
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Properties.Resources.resources
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.GenerateResource.cache
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CopyComplete
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.exe
+C:\Users\pesadaç\Desktop\Melanie\SegundaEntrega\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.pdb
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe.config
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.pdb
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ZstdSharp.dll
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.pdb
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.xml
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.xml
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.xml
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.xml
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.AssemblyReference.cache
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaActores.resources
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaPeliculas.resources
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.VentanaPrincipal.resources
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Properties.Resources.resources
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.GenerateResource.cache
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CopyComplete
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.exe
+C:\Users\Alexis Aquino\Downloads\RDTY\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.pdb
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe.config
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.pdb
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ZstdSharp.dll
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.pdb
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.AssemblyReference.cache
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaActores.resources
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaPeliculas.resources
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.VentanaPrincipal.resources
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Properties.Resources.resources
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.GenerateResource.cache
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CopyComplete
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.exe
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.pdb
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaActores.resources
+C:\Users\pesadaç\Desktop\Melanie\CTC\Programacion2\ObligatorioParte1\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaPeliculas.resources
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe.config
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.exe
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ObligatorioProgramacionII.pdb
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\ZstdSharp.dll
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.pdb
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Google.Protobuf.xml
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\MySql.Data.xml
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Buffers.xml
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Memory.xml
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.AssemblyReference.cache
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaActores.resources
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Vista.PanelListaPeliculas.resources
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.VentanaPrincipal.resources
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.Properties.Resources.resources
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.GenerateResource.cache
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacion.csproj.CopyComplete
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.exe
+C:\Users\Alexis Aquino\Desktop\MELANIE\Obligatorios finales\ObligatorioProgramacionII\ObligatorioProgramacionII\obj\Debug\ObligatorioProgramacionII.pdb
